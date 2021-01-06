@@ -1,6 +1,5 @@
 # hockey_analytics
-Summer 2020 Hockey Analytics Project
+Hockey Analytics Project
 Goals:
-1. Create a system to compare prospects from multiple leagues
-2. Use past drafts and available data to predict late round sleepers
-3. Organize findings into a paper
+1. Create simple app to visualize desired player data
+2. Identify any trends that help predict players who will exceed draft position expectations
